@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  padding: 20px 0;
+  background: white;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url("./assets/fonts/Roboto/Roboto-Black.ttf") format("ttf"),
+    url("./assets/fonts/Roboto/Roboto-BlackItalic.ttf") format("ttf"),
+    url("./assets/fonts/Roboto/Roboto-Bold.ttf") format("ttf"),
+    url("./assets/fonts/Roboto/Roboto-BoldItalic.ttf") format("ttf"),
+    url("./assets/fonts/Roboto/Roboto-Italic.ttf") format("ttf"),
+    url("./assets/fonts/Roboto/Roboto-Light.ttf") format("ttf"),
+    url("./assets/fonts/Roboto/Roboto-LightItalic.ttf") format("ttf"),
+    url("./assets/fonts/Roboto/Roboto-Medium.ttf") format("ttf"),
+    url("./assets/fonts/Roboto/Roboto-MediumItalic.ttf") format("ttf"),
+    url("./assets/fonts/Roboto/Roboto-Regular.ttf") format("ttf"),
+    url("./assets/fonts/Roboto/Roboto-Thin.ttf") format("ttf");
+}

@@ -1,0 +1,32 @@
+.menu {
+}
+.menu .list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+}
+.menu .list .item {
+  flex: 1;
+  height: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Roboto", sans-serif;
+  opacity: 0.5;
+}
+.menu .list .item.active {
+  opacity: 1;
+}
+
+.menu .list .item.active::before {
+  content: "";
+  background: black;
+  width: 5px;
+  height: 5px;
+  border-radius: 2.5px;
+  position: absolute;
+  transform: translateY(15px);
+}

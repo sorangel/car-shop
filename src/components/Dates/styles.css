@@ -1,0 +1,35 @@
+.dates {
+}
+.dates .list {
+  width: 100%;
+  height: 100%;
+  scroll-snap-type: x mandatory;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 10px 0 10px 0;
+}
+
+.dates .list .item {
+  flex: 1;
+  min-width: 95px;
+  height: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.5;
+}
+.dates .list .item.active {
+  opacity: 1;
+}
+
+.dates .list .item span {
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  color: black;
+}

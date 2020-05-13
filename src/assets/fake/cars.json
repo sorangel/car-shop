@@ -1,0 +1,50 @@
+[
+  {
+    "price": 23000000,
+    "photo": "https://media.revistagq.com/photos/5ca5e7954409cc340f908d1e/master/w_828%2cc_limit/los_100_mejores_coches_de_la_historia_721102873.jpg",
+    "name": "VW Beetle",
+    "brand": "Volkswagen",
+    "year": 1938,
+    "overview": "Es la aportación alemana a la santísima trinidad de los coches urbanos y económicos –junto al Mini británico y el 500 italiano–. Se llamaba inicialmente Type 1, pero un artículo de The New York Times lo rebautizó como Escarabajo por su color y forma. Desde 1938, se han vendido 23,5 millones de unidades.",
+    "colors": ["red", "blue", "black"]
+  },
+  {
+    "price": 60000000,
+    "photo": "https://media.revistagq.com/photos/5ca5e795f4648830eff47729/master/w_828%2cc_limit/los_100_mejores_coches_de_la_historia_937270025.jpg",
+    "name": "Ferrari Enzo",
+    "brand": "Ferrari",
+    "year": 1984,
+    "overview": "Hasta el lanzamiento de LaFerrari, era el automóvil más rápido jamás fabricado por los de Maranello. Su versión FXX sólo puede utilizarse en circuito. Hace el kilómetro en 19,60 segundos. Y encima es jodidamente bonito.",
+    "colors": ["red", "blue", "black"]
+  },
+
+  {
+    "price": 60000000,
+    "photo": "https://media.revistagq.com/photos/5ca5e795f552a19da432c7b3/master/w_828%2cc_limit/los_100_mejores_coches_de_la_historia_595768239.jpg",
+    "name": "Dodge Charger",
+    "brand": "Dodge",
+    "year": 1984,
+    "overview": "Cuando se habla de Bullit, todo el mundo se acuerda del Mustang que conduce Steve McQueen. Pocos se acuerdan del Dodge Charger al que persigue por las colinas de San Francisco",
+    "colors": ["red", "blue", "black"]
+  },
+
+  {
+    "price": 100000000,
+    "photo": "https://media.revistagq.com/photos/5ca5e795f552a1c0c832c7b8/master/w_828%2cc_limit/los_100_mejores_coches_de_la_historia_328132107.jpg",
+    "name": "Porsche 918 Spyder",
+    "brand": "Porsche",
+    "year": 2000,
+    "overview": "Cuando se habla de Bullit, todo el mundo se acuerda del Mustang que conduce Steve McQueen. Pocos se acuerdan del Dodge Charger al que persigue por las colinas de San Francisco",
+    "colors": ["red", "blue", "black"]
+  },
+
+  {
+    "price": 650000,
+    "photo": "https://media.revistagq.com/photos/5ca5e797d71dd94f70955b98/master/w_828%2cc_limit/los_100_mejores_coches_de_la_historia_567886775.jpg",
+    "name": "Lamborghini Miura",
+    "brand": "Lamborghini",
+    "year": 1966,
+    "overview": "Este coupé de 1966 fue el primer Lamborghini capaz de rivalizar con Ferrari. El diseño, obra de Bertone, es extraordinariamente moderno, así como la arquitectura del coche: motor central trasero y chasis rígido y ligero.",
+    "colors": ["red", "blue", "black"]
+  }
+]
